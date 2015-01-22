@@ -1,0 +1,10 @@
+# gitignore as suggested by 
+# https://answers.unrealengine.com/questions/16787/how-to-setup-git-for-an-ue4-project.html
+
+[Bb]inaries/
+[Dd]erivedDataCache/
+[Ii]ntermediate/
+[Ss]aved/
+
+*.pdb
+*.sdf
